@@ -387,7 +387,7 @@ textarea.form-control {
   .pagination .page-item:before {
     content: none; }
   .pagination .page-item {
-    margin: 0 10px; }
+    margin: 2px; }
     .pagination .page-item.active .page-link {
       background: #EB1C79;
       color: #fff;
