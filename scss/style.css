@@ -223,6 +223,9 @@ a h4:hover {
 p a {
   text-decoration: underline; }
 
+small a {
+  text-decoration: underline; }
+
 .slick-slide {
   outline: 0; }
 
